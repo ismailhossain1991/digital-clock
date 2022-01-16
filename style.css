@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+*{
+    font-family: orbitron;
+}
+
+body{
+    background-color: #ffff
+    
+}
+
+.clock{
+    width: 1000px;
+    margin: 100px auto 0;
+    font-size: 65px;
+    
+}
